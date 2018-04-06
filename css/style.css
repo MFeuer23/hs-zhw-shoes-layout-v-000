@@ -375,7 +375,7 @@ figcaption {
 	float: left;
 }
 
-.border_right p, a {
+.border_right p, a, address {
 	font-size: 10px;
 }
 
