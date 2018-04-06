@@ -370,4 +370,13 @@ figcaption {
 .border_right {
 	text-align: left;
 }
+
+.middle {
+	text-align: center;
+}
+
+.border_right {
+	text-align: right;
+}
+
 /* code examples copyright Jonathan Grover 2012 */
