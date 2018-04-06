@@ -326,4 +326,12 @@ footer {
 ul {
 	font-size: 13px;
 }
+
+.col-1a {
+  float: left;
+  width: 32%;
+  background: #fff;
+	margin-left: 1%;
+	height: 200px;
+}
 /* code examples copyright Jonathan Grover 2012 */
