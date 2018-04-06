@@ -350,4 +350,8 @@ ul {
 	margin-top: 2%;
 	height: 250px;
 }
+
+.col-1a p {
+	font-size: 10px;
+}
 /* code examples copyright Jonathan Grover 2012 */
