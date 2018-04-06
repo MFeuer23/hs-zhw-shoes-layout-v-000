@@ -375,8 +375,8 @@ figcaption {
 	float: left;
 }
 
-.border_right {
-	float: left;
+.border_right p {
+	font-size: 10px;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
