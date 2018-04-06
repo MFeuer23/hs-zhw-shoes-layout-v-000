@@ -369,6 +369,7 @@ figcaption {
 
 .border_right {
 	text-align: left;
+	float: left;
 }
 
 .middle {
