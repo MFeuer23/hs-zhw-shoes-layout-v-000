@@ -344,10 +344,10 @@ ul {
 }
 
 .col-1c {
-  float: right;
+  float: left;
   width: 32%;
   background: #fff;
-	margin-top: 1%;
+	margin: 1%;
 	height: 250px;
 }
 /* code examples copyright Jonathan Grover 2012 */
