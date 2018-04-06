@@ -374,10 +374,12 @@ figcaption {
 
 .middle {
 	text-align: center;
+	float: left;
 }
 
 .border_right {
 	text-align: right;
+	float: left;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
