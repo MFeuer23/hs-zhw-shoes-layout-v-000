@@ -351,6 +351,10 @@ ul {
 	height: 250px;
 }
 
+figcaption {
+	font-size: 10px;
+}
+
 .col-1a p {
 	font-size: 10px;
 }
