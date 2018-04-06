@@ -321,4 +321,8 @@ footer {
 .col-3 {
   background: #ccc;
 }
+
+.archive ul {
+	font-size: 12px;
+}
 /* code examples copyright Jonathan Grover 2012 */
