@@ -366,4 +366,8 @@ figcaption {
 .col-1c p {
 	font-size: 10px;
 }
+
+.border_right {
+	text-align: left;
+}
 /* code examples copyright Jonathan Grover 2012 */
