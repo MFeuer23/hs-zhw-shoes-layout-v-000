@@ -331,7 +331,7 @@ ul {
   float: left;
   width: 32%;
   background: #fff;
-	margin-left: 1%;
+	margin: 1%, 1%, 1%, 0%;
 	height: 200px;
 }
 /* code examples copyright Jonathan Grover 2012 */
